@@ -86,7 +86,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Designed a MILP-based maintenance scheduler with technician and parts constraints.
 * Projected significant cost optimization for industrial fleet maintenance.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](GITHUB_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Sparshtaparia/Predictive-Maintenance-Remaining-Useful-Life-RUL-Forecasting-Platform)
 
 ---
 
@@ -99,7 +99,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Designed Bronze-Silver-Gold warehouse layers with DBT transformations.
 * Supported fraud analytics, customer segmentation, and KPI reporting.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](GITHUB_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Sparshtaparia/Real-Time-Enterprise-Banking-Analytics-Platform)
 
 ---
 
@@ -124,7 +124,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Analyzed profitability, capital efficiency, NIM, LDR, ROE, and EPS.
 * Created scenario-based forecasting and valuation frameworks.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](GITHUB_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Sparshtaparia/HDFC-Bank-Valuation-Merger-Impact-Model)
 
 ---
 
@@ -136,7 +136,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Conducted ratio analysis, peer benchmarking, and DCF valuation.
 * Assessed growth prospects and intrinsic enterprise value.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](GITHUB_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Sparshtaparia/HUL-Financial-Model)
 
 ---
 
