@@ -76,19 +76,6 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 </div>
 ---
 
-## 🧠 Core Strengths
-
-```txt
-Data Science          ███████████████████░░   90%
-Business Analytics    ███████████████████░░   90%
-Product Strategy      █████████████████░░░░   82%
-Financial Analysis    ████████████████░░░░░   78%
-Data Engineering      █████████████████░░░░   82%
-MLOps & Cloud         ████████████████░░░░░   76%
-```
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔧 Predictive Maintenance & RUL Forecasting Platform
