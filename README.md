@@ -112,7 +112,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Integrated SHAP explainability for business-friendly model interpretation.
 * Applied causal uplift modelling to identify high-impact retention opportunities.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](GITHUB_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Sparshtaparia/Customer-Churn-Prediction-Retention-Intelligence-Platform)
 
 ---
 
@@ -150,7 +150,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Structured product diagnostics using funnel breakdowns and user behavior analysis.
 * Proposed experiment-driven recommendations to improve conversion.
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-Product%20Strategy-00D4FF?style=for-the-badge)](CASE_STUDY_LINK)
+[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-Product%20Strategy-00D4FF?style=for-the-badge)](https://drive.google.com/drive/folders/1PB6i9jmd1ShCsTwb6Pj1okiWNlASaIPT?usp=drive_link)
 
 ---
 
@@ -162,7 +162,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 * Worked on transcriber quality detection and voice AI evaluation flows.
 * Created product thinking artifacts including PRD, UX flows, and quality metrics.
 
-[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-Product%20Design-00D4FF?style=for-the-badge)](CASE_STUDY_LINK)
+[![View Case Study](https://img.shields.io/badge/View%20Case%20Study-Product%20Design-00D4FF?style=for-the-badge)](https://drive.google.com/drive/folders/1ZM6OyG-vnbkr6xmKFm_CdaM_BLL0Es85?usp=drive_link)
 
 ---
 
@@ -273,7 +273,7 @@ I enjoy building systems that combine **machine learning, data engineering, anal
 **Open to internships, collaborations, product/data projects, and research-driven innovation.**
 
 📧 **Email:** [sparshtaparia2005@gmail.com](mailto:sparshtaparia2005@gmail.com)
-💼 **LinkedIn:** [Sparsh Taparia](LINKEDIN_URL)
+💼 **LinkedIn:** [Sparsh Taparia](http://www.linkedin.com/in/sparsh-taparia-a187b6289)
 🐙 **GitHub:** [@Sparshtaparia](https://github.com/Sparshtaparia)
 
 </div>
